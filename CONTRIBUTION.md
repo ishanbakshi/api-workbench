@@ -112,3 +112,5 @@ Some last words, please do not get discouraged if submitting a small fix, requir
 ### Merge approval
 
 The maintainers of this project will review your pull request and, if approved, will merge into the main repo. Commits get approval based on the conventions outlined in the previous section. For example, new features without additional tests will be not approved.
+
+
